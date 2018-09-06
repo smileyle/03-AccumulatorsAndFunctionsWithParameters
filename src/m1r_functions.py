@@ -43,3 +43,15 @@ def hello_and_goodbye(person1, person2):
 
 
 main()
+'''
+Hello, Snow White, - how are things?
+Goodbye, Bashful, -see you later!
+    Ciao!
+    Bai bai!
+Hello, Grumpy, - how are things?
+Hello, Sleepy, - how are things?
+Hello, Magic Mirror, - how are things?
+Goodbye, Cruel Queen, -see you later!
+    Ciao!
+    Bai bai!
+'''

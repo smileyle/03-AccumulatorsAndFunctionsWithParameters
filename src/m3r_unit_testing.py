@@ -4,11 +4,11 @@ This module helps you understand:
   -- the difference between PRINT and RETURN
 
 Authors: David Mutchler, Dave Fisher, Vibha Alangar, Mark Hays, Amanda Stouder,
-         their colleagues and PUT_YOUR_NAME_HERE.
+         their colleagues and Lauren Smiley.
 """
 ###############################################################################
 #
-# TODO: 1.
+# Done: 1.
 #   Allow this module to use the  rosegraphics.py  module by marking the
 #     src
 #   folder in this project as a "Sources Root", as follows:
@@ -20,7 +20,6 @@ Authors: David Mutchler, Dave Fisher, Vibha Alangar, Mark Hays, Amanda Stouder,
 
 import rosegraphics as rg
 import math
-
 
 def main():
     """ Calls the   TEST   functions in this module. """
@@ -69,10 +68,10 @@ def distance(point):
 main()
 
 ###############################################################################
-# TODO: 2.
+# Done: 2.
 #
 # READ the following, asking questions as needed.
-# When you believe that you understading what is says about UNIT TESTING,
+# When you believe that you're understanding what is says about UNIT TESTING,
 # mark the above TO-DO as DONE.
 #
 #   In most exercises we will follow the  UNIT TESTING
