@@ -126,9 +126,7 @@ def draw_circles2():
         if k >= 5:
             if k % 2 != 0:
                 circl = rg.Circle(rg.Point((k*10), 100), 10)
-                #circl.fill_color('blue')
-                #circle can't fill, syntax should be correct
-                #but claims there is an error here^^^
+                circl.fill_color = 'blue'
                 circl.attach_to(window)
     window.render()
     window.close_on_mouse_click()
